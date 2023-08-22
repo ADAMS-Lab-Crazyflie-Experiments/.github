@@ -1,4 +1,6 @@
 # ADAMS Lab Crazyflie Experiments
+Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu), [Eric Butcher](https://github.com/Eric-Butcher) (Eric put your email here)*
+***
 ## Hi there 👋
 TODO
 
