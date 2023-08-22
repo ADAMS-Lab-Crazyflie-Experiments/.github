@@ -1,1 +1,0 @@
-# ADAMS Lab Crazyflie Experments
